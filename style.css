@@ -104,3 +104,10 @@ a:hover{
   border-radius:5px;
   padding:4px;
 }
+#installButton{
+ 
+  margin-top:15px;
+}
+#middleman{
+  text-align:center;
+}
