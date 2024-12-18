@@ -34,7 +34,7 @@ hr{
   text-align:left;
   max-width:50%;
 }
-@media(max-width: 500px){
+@media(max-width: 700px){
   #main{
     max-width:100%;
   }
@@ -86,7 +86,7 @@ hr{
     transform: translate(-50%, -50%);
     grid-template-areas: "title title""image episode""image season""summary summary";
 }
-@media(min-width:501px){
+@media(min-width:701px){
   #message{
     width:40%;
   }
